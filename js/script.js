@@ -8,7 +8,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Web Developer.", "Frontend Engineer.", "HCI Specialist."],
+		strings: ["Web Developer.", "Frontend Engineer.", "UI Designer.", "HCI Specialist."],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
