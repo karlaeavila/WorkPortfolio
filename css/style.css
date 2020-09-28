@@ -299,6 +299,12 @@ body {
 	position: fixed;
 	top: 0;
 }
+.fancybox-content {
+	transform: translate(0px, 148px);
+    width: 239px;
+    height: 211px;
+    z-index: 10;
+}
 .loader {
 	width: 100%;
 	height: 100%;
@@ -313,8 +319,66 @@ body {
 	height: 100%;
 	background: url(../img/loader.gif) center center no-repeat;
 }
-
-
-
-
-
+.learningEquality {
+	padding-left: 200px;
+    position: relative;
+}
+.Kolibri {
+	padding-left: 100px;
+    position: relative;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #f8a5c2;
+}
+.wireframe1,
+.wireframe2 {
+	width: 450px;
+	height: 500px;
+	margin: auto;
+}
+.wireframe1 {
+	padding-left: 150px;
+	position: relative;
+}
+.wireframe2 {
+	padding-left: 150px;
+	position: relative;
+}
+.FBM {
+	margin: auto;
+}
+.h4, h4 {
+    font-size: 1.5rem;
+    padding-top: 25px;
+}
+.toothchePic {
+	padding-left: 200px;
+}
+.profile,
+.achievements,
+.mainpage {
+	width: 300px;
+    height: 500px;
+    padding: 20px;
+    border: 3px solid #f8a5c2;
+    border-radius: 10px;
+}
+.alphaPic {
+	height: 450px;
+    width: 500px;
+}
+.Alpha {
+	margin: auto;
+}
+.Karpool {
+	margin: auto;
+}
